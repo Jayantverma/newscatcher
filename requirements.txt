@@ -44,6 +44,6 @@ six==1.11.0
 SQLAlchemy==1.1.15
 timestamp==0.0.1
 twilio==6.10.0
-urllib3==1.21.1
+urllib3==1.26.5
 virtualenv==15.1.0
 Werkzeug==0.13
