@@ -30,7 +30,7 @@ openpyxl==2.4.9
 pandas==0.21.1
 pyasn1==0.4.2
 pycparser==2.18
-PyJWT==1.5.3
+PyJWT==2.4.0
 pyOpenSSL==17.5.0
 pyparsing==2.2.0
 pyperclip==1.6.0
